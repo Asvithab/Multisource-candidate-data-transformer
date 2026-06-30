@@ -1,0 +1,37 @@
+{
+  "candidates": [
+    {
+      "id": "C001",
+      "full_name": "Asha S. Menon",
+      "primary_email": "asha.menon@gmail.com",
+      "contact_number": "9876543210",
+      "employer": "TechNova Private Limited",
+      "designation": "Backend Software Engineer",
+      "city": "Bengaluru",
+      "country_name": "India",
+      "skills_list": ["Python", "Django", "PostgreSQL"]
+    },
+    {
+      "id": "C002",
+      "full_name": "Rohan Iyer",
+      "primary_email": "rohan.k.iyer@gmail.com",
+      "contact_number": "9876512345",
+      "employer": "DataForge Incorporated",
+      "designation": "Senior Data Analyst",
+      "city": "Pune",
+      "country_name": "India",
+      "skills_list": ["SQL", "Excel", "PowerBI"]
+    },
+    {
+      "id": "C003",
+      "full_name": "Priya Sundaram",
+      "primary_email": "priya.sundaram@gmail.com",
+      "contact_number": "9123456780",
+      "employer": "QuantumSoft Solutions",
+      "designation": "Software Engineer Intern",
+      "city": "Chennai",
+      "country_name": "India",
+      "skills_list": ["JS", "ReactJS"]
+    }
+  ]
+}
