@@ -60,6 +60,7 @@ Cross-candidate identity resolution (e.g. determining a resume with no ID belong
 `data/samples/` contains 5 candidates with deliberately built-in conflicts: format differences, genuine field conflicts, missing fields, a candidate present in only one source, and one fully garbage/unparseable resume to test robustness.
 
 output
+
 (venv) C:\Users\asvit\OneDrive\eightfold-candidate-transformer>python -m src.cli --csv data\samples\recruiter_export.csv --json data\samples\ats_blob.json --resume data\samples\resume_C001.pdf --config configs\example_config.json --out output_custom.json 
 
 Candidate: C001
