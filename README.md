@@ -2,6 +2,9 @@
 
 Eightfold Engineering Intern Assignment — Asvitha B
 
+Video link - https://drive.google.com/file/d/1HLSijUxCx24zdOUdh_-QnLbEy-DuMzuh/view?usp=drivesdk
+
+
 ## What this does
 
 Ingests candidate data from multiple messy, conflicting sources (recruiter CSV, ATS JSON, resume PDF) and merges it into one clean canonical profile per candidate — with every field traced back to its source and scored by confidence. Missing data is left `null`, never invented. Conflicting data is resolved by source trust, logged transparently in `provenance`.
